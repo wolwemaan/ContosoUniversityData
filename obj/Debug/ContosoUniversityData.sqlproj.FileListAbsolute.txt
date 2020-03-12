@@ -1,0 +1,10 @@
+C:\Users\ettie\source\repos\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\ettie\source\repos\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\ettie\source\repos\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojAssemblyReference.cache
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\Model.xml
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\refactor.xml
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\postdeploy.sql
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\predeploy.sql
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\ettie\source\repos\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
