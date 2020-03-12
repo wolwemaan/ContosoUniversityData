@@ -58,9 +58,9 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="CheckConstraint1.sql" />
-    <Build Include="CheckConstraint1_1.sql" />
-    <Build Include="CheckConstraint1_2.sql" />
+    <Build Include="Student.sql" />
+    <Build Include="Course.sql" />
+    <Build Include="Enrollment.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />

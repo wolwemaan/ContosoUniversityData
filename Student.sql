@@ -8,6 +8,7 @@ CREATE TABLE [dbo].[Student] (
     [FirstName]      NVARCHAR (50) NULL,
     -- date time column
     [EnrollmentDate] DATETIME      NULL,
+    [MiddleName] NVARCHAR(50) NULL, 
     -- Using [StudentID] as the key in ascending order
     PRIMARY KEY CLUSTERED ([StudentID] ASC)
 )
